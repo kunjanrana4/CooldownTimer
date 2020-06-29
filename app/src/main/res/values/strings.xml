@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cooldown Timer</string>
+    <string name="calculate_coordinate_distance">Calculate Coordinate Distance</string>
+    <string name="_1st_coordinates">1st Coordinates</string>
+    <string name="latitude1_longitude1">latitude1,longitude1</string>
+    <string name="_2nd_coordinates">2nd Coordinates</string>
+    <string name="latitude2_longitude2">latitude2,longitude2</string>
+    <string name="calculate_cooldown">Calculate Cooldown</string>
+    <string name="total_distance">Total Distance :&#160;</string>
+    <string name="cooldown_time">Cooldown Time &#160;:&#160;</string>
+    <string name="format">Format</string>
+    <string name="paste">Paste</string>
+</resources>
